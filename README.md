@@ -1,0 +1,1 @@
+This repository demonstrates an example of an uncommon code error in assembly language: an out-of-bounds memory access caused by an unvalidated `ECX` register. The `bug.asm` file contains the erroneous code, while `bugSolution.asm` provides a corrected version with input validation.
